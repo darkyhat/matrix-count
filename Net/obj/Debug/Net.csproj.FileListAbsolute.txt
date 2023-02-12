@@ -1,0 +1,10 @@
+C:\Users\darkyhat\source\repos\Net\Net\bin\Debug\Net.exe.config
+C:\Users\darkyhat\source\repos\Net\Net\bin\Debug\Net.exe
+C:\Users\darkyhat\source\repos\Net\Net\bin\Debug\Net.pdb
+C:\Users\darkyhat\source\repos\Net\Net\obj\Debug\Net.csproj.AssemblyReference.cache
+C:\Users\darkyhat\source\repos\Net\Net\obj\Debug\Net.Form1.resources
+C:\Users\darkyhat\source\repos\Net\Net\obj\Debug\Net.Properties.Resources.resources
+C:\Users\darkyhat\source\repos\Net\Net\obj\Debug\Net.csproj.GenerateResource.cache
+C:\Users\darkyhat\source\repos\Net\Net\obj\Debug\Net.csproj.CoreCompileInputs.cache
+C:\Users\darkyhat\source\repos\Net\Net\obj\Debug\Net.exe
+C:\Users\darkyhat\source\repos\Net\Net\obj\Debug\Net.pdb
